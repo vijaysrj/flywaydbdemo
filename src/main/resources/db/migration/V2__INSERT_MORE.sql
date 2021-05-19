@@ -1,0 +1,1 @@
+insert into demo.test(name) values ('RAJA');
